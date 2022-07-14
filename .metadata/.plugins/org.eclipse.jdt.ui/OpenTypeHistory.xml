@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=Student-service/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.jbk.student.service{StudentService.java[StudentService" modifiers="513" timestamp="1657607196603"/>
+    <typeInfo handle="=Student-service/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.jbk.student.dao{StudentDao.java[StudentDao" modifiers="513" timestamp="1657595979459"/>
+    <typeInfo handle="=Branch-service/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.jbk.branch.service{BranchService.java[BranchService" modifiers="513" timestamp="1657598925435"/>
+    <typeInfo handle="=Branch-service/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.jbk.branch.dao{BranchDao.java[BranchDao" modifiers="513" timestamp="1657599006558"/>
+</typeInfoHistroy>

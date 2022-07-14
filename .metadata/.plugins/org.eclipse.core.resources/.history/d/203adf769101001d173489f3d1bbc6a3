@@ -1,0 +1,5 @@
+package com.jbk.student.dao;
+
+public interface StudentDao {
+
+}

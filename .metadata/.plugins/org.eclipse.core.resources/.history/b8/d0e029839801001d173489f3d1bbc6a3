@@ -1,0 +1,5 @@
+package com.jbk.branch.dao;
+
+public interface BranchDao {
+
+}

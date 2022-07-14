@@ -1,0 +1,5 @@
+package com.jbk.student.model;
+
+public class StudentBranch {
+
+}

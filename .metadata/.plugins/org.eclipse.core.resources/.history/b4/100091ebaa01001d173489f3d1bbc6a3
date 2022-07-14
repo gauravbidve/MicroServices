@@ -1,0 +1,10 @@
+package com.jbk.student.model;
+
+import com.jbk.student.entity.Student;
+
+public class StudentBranch {
+	
+	Student student;
+	
+	
+}

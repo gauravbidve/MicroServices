@@ -1,0 +1,5 @@
+package com.jbk.student.service;
+
+public interface StudentService {
+
+}

@@ -1,0 +1,22 @@
+package com.jbk.branch.service;
+
+import org.springframework.stereotype.Service;
+
+import com.jbk.branch.entity.Branch;
+
+@Service
+public class BranchServiceImpl implements BranchService {
+
+	@Override
+	public boolean saveBranch(Branch branch) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public Branch getBranch(int branchId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

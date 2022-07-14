@@ -1,0 +1,5 @@
+package com.jbk.branch.service;
+
+public interface BranchService {
+
+}

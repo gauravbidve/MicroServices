@@ -1,0 +1,19 @@
+package com.jbk.branch.service;
+
+import com.jbk.branch.entity.Branch;
+
+public class BranchServiceImpl implements BranchService {
+
+	@Override
+	public boolean saveBranch(Branch branch) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public Branch getBranch(int branchId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

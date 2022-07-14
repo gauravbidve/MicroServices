@@ -1,0 +1,35 @@
+package com.jbk.student.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.jbk.student.dao.StudentDao;
+import com.jbk.student.entity.Student;
+import com.jbk.student.model.StudentBranch;
+
+@Service
+public class StudentServiceImpl implements StudentService {
+
+	@Autowired
+	StudentDao dao;
+	
+	@Override
+	public boolean saveStudent(Student student) {
+		boolean value = dao.saveStudent(student);
+		return value;
+	}
+
+	@Override
+	public Student getStudent(int studentId) {
+		Student student = dao.getStudent(studentId);
+		return student;
+	}
+	
+	public StudentBranch getStudentWithBranch(int studentId) {
+		
+		
+		
+		return null;
+	}
+
+}

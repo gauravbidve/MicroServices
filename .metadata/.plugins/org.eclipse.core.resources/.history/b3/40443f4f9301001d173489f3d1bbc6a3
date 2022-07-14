@@ -1,0 +1,5 @@
+package com.jbk.student.entity;
+
+public class Student {
+
+}

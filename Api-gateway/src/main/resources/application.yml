@@ -1,0 +1,19 @@
+server:
+  port: 9191
+  
+#application name and routing  
+spring:
+  application:
+    name: API-GATEWAY
+  cloud:
+    gateway:
+      routes:
+      - id: STUDENT-SERVICE
+        uri: lb://STUDENT-SERVICE
+        predicates:
+          - Path=/student/**
+                
+      - id: STUDENT-SERVICE
+        uri: lb://BRANCH-SERVICE
+        predicates:
+          - Path=/branch/**    

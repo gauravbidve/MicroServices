@@ -1,0 +1,22 @@
+package com.jbk.student.dao;
+
+import org.springframework.stereotype.Repository;
+
+import com.jbk.student.entity.Student;
+
+@Repository
+public class StudentDaoImpl implements StudentDao {
+
+	@Override
+	public boolean saveStudent(Student student) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public Student getStudent(int studentId) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

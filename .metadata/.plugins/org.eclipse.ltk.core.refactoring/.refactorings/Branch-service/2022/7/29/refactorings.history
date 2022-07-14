@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Branch.java&apos; to &apos;Student-service/src/main/java/com.jbk.student.model&apos;&#x0D;&#x0A;- Original project: &apos;Branch-service&apos;&#x0D;&#x0A;- Destination element: &apos;Student-service/src/main/java/com.jbk.student.model&apos;&#x0D;&#x0A;- Original element: &apos;com.jbk.branch.entity.Branch.java&apos;" description="Copy compilation unit" destination="=Student-service/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.jbk.student.model" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.jbk.branch.entity{Branch.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1657606831592" units="1" version="1.0"/>
+</session>
